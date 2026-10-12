@@ -10,7 +10,7 @@ function About() {
 
       <div className="bg-white p-8 rounded-2xl border border-slate-100 shadow-sm space-y-6">
         <div>
-          <h4 className="text-xl font-bold text-green-600 mb-2">Oshxona Maqsadi:</h4>
+          <h4 className="text-xl font-bold text-green-600 mb-2">Oshxona   Maqsadi:</h4>
           <p className="text-slate-600 text-sm leading-relaxed">
             Bizning asosiy maqsadimiz — o'quvchilarni tezkor, mazali va eng muhimi sanitariya-gigiyena talablariga to'liq mos keladigan issiq ovqat bilan ta'minlashdir. Taomlarimiz tajribali parhezshunos (dietolog) shifokorlar nazorati ostida tuzilgan maxsus maktab menyusi asosida pishiriladi.
           </p>
